@@ -1,0 +1,283 @@
+.tt{
+    width: 120px;
+}
+span{
+    font-size: 16px;
+    /* font-weight: bold; */
+}
+.container-cont {
+    border: 1px solid red;
+    display: block;
+    height: 330px;
+}
+.topa{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+.nav{
+    display: flex;
+    margin: 0px;
+}
+.whatsapp{
+    background-color: green;
+    padding: 7px 15px;
+    border-radius: 7px;
+    cursor: pointer;
+    
+}
+.number{
+    color: black;
+    background-color: red;
+    padding: 6px 25px;
+    border-radius: 7px;
+}
+a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.jj {
+    width: 350;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+button{
+    border: none;
+    background-color: green;
+    padding: 10px 15px;
+    border-radius: 7px;
+    margin: -5px 10px 6px 679px;
+color: #f2f2f2;
+cursor: pointer;
+}
+
+li{
+    list-style: none;
+    color: white;
+    margin: 20px;
+}
+ul{
+    text-decoration: none;
+}
+.navbaar{
+    background-color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(221, 224, 226);
+}
+.logo{
+    width: 90px;
+    margin: 10px;
+}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: 40px auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+.slideshow-container{
+    overflow: hidden;
+}
+.slyder-sty{
+    width: 160px;
+}
+.topa{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+.tt{
+    width: 140px;
+    margin: 10px 170px;
+}
+.container-cont{
+    border: 1px solid rgb(189, 181, 181);
+    display: block;
+    height: 390px;
+}
+p{
+    background-color: rgb(151, 197, 197);
+    font-weight: bold;
+    color: wheat;
+}
+h4{
+    display: contents;
+}
+button{
+    border: none;
+    background-color: green;
+    padding: 10px 15px;
+    border-radius: 7px;
+    margin: -5px 10px 6px 379px;
+color: #f2f2f2;
+cursor: pointer;
+}
+@media only screen and (max-width: 1000px) {
+element.style {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.slideshow-container{
+    overflow: hidden;
+}
+/* .slyder-sty{ */
+    /* width: 700px; */
+}
+.topa{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+button{
+    border: none;
+    background-color: green;
+    padding: 10px 15px;
+    border-radius: 7px;
+    margin: -5px 10px 6px 209px;
+color: #f2f2f2;
+cursor: pointer;
+}
+
+@media only screen and (max-width: 700px) {
+element.style {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.slideshow-container{
+    overflow: hidden;
+}
+.slyder-sty{
+    width: 400px;
+}
+.topa{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+button{
+    border: none;
+    background-color: green;
+    padding: 10px 15px;
+    border-radius: 7px;
+    margin: -5px 10px 6px 79px;
+color: #f2f2f2;
+cursor: pointer;
+}
+}
+@media only screen and (max-width: 400px) {
+element.style {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.lawda{
+    overflow-x: hidden;
+}
+.slideshow-container{
+    overflow: hidden;
+}
+.topa{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+.jj {
+    width: 200px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+button{
+    border: none;
+    background-color: green;
+    padding: 10px 15px;
+    border-radius: 7px;
+    margin: -5px 10px 6px 9px;
+color: #f2f2f2;
+cursor: pointer;
+}
+.slyder-sty{
+    width: 260px;
+}
+}
+ @media only screen and (max-width: 360px) {
+    
+     .lawda{
+         overflow-x: hidden;
+     } 
+} 
